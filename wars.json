@@ -29,6 +29,11 @@
       "opponent": "Epikz Serverside",
       "status_text": "Planned",
       "status_class": "st-planned"
+    },
+    {
+      "opponent": "Vista Serverside",
+      "status_text": "Planned",
+      "status_class": "st-planned"
     }
   ]
 }
