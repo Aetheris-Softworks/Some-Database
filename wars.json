@@ -27,8 +27,8 @@
     },
     {
       "opponent": "Vista Serverside",
-      "status_text": "Planned",
-      "status_class": "st-planned"
+      "status_text": "Active",
+      "status_class": "st-active"
     }
   ]
 }
