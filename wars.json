@@ -24,6 +24,11 @@
       "opponent": "Team Ham00d",
       "status_text": "Peace Treaty",
       "status_class": "st-peace"
+    },
+    {
+      "opponent": "Epikz Serverside",
+      "status_text": "Planned",
+      "status_class": "st-planned"
     }
   ]
 }
