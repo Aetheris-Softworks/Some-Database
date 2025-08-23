@@ -11,6 +11,11 @@
       "status_class": "st-win"
     },
     {
+      "opponent": "T1x5",
+      "status_text": "Active",
+      "status_class": "st-active"
+    },
+    {
       "opponent": "Team Ham00d",
       "status_text": "Peace Treaty",
       "status_class": "st-peace"
@@ -19,11 +24,6 @@
       "opponent": "Vista Serverside",
       "status_text": "Peace Treaty",
       "status_class": "st-peace"
-    },
-    {
-      "opponent": "World",
-      "status_text": "Active",
-      "status_class": "st-active"
     }
   ]
 }
