@@ -19,6 +19,11 @@
       "opponent": "Vista Serverside",
       "status_text": "Peace Treaty",
       "status_class": "st-peace"
+    },
+    {
+      "opponent": "World",
+      "status_text": "Active",
+      "status_class": "st-active"
     }
   ]
 }
