@@ -42,6 +42,5 @@ The goal of Aetheris is to enhance your fun, not to kill games. All tiers must f
 # ⚠️ Important Warning
 We track script execution. Violating the **General Terms** can lead to an instant ban.
 Otherwise, it's 3 warnings -> blacklist.
-We can blacklist without warns.
 ----
 Think before you act!
