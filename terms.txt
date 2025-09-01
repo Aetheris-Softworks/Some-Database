@@ -37,7 +37,7 @@ The goal of Aetheris is to enhance your fun, not to kill games. All tiers must f
 - No External/Internal executors.
 - Polaria not allowed.
 - No HD Admin.
-- NSFW Scripts no allowed.
+- NSFW Scripts not allowed.
 
 # ⚠️ Important Warning
 We track script execution. Violating the **General Terms** can lead to an instant ban.
