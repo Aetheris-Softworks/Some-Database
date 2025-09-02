@@ -1,28 +1,28 @@
 {
   "wars": [
     {
-      "opponent": "Nyxara Serverside",
-      "status_text": "Peace Treaty",
+      "opponent": "c00lkid",
+      "status_text": "skid",
       "status_class": "st-peace"
     },
     {
-      "opponent": "Hunter Serverside",
-      "status_text": "Victory of Aetheris",
+      "opponent": "aetheris ss",
+      "status_text": "peace of shit",
       "status_class": "st-win"
     },
     {
-      "opponent": "T1x5",
-      "status_text": "Active",
+      "opponent": "nyxara v5",
+      "status_text": "best ss",
       "status_class": "st-active"
     },
     {
-      "opponent": "Team Ham00d",
-      "status_text": "Peace Treaty",
+      "opponent": "Team bahmut",
+      "status_text": "sosal",
       "status_class": "st-peace"
     },
     {
-      "opponent": "Vista Serverside",
-      "status_text": "Peace Treaty",
+      "opponent": "nigger Serverside",
+      "status_text": "raped",
       "status_class": "st-peace"
     }
   ]
