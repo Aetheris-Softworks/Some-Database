@@ -10,7 +10,7 @@
       "status_text": "Victory of Aetheris",
       "status_class": "st-win"
     },
-    {
+    { 
       "opponent": "Kronos Serverside",
       "status_text": "Planned",
       "status_class": "st-planned"
