@@ -1,46 +1,61 @@
-# Aetheris Terms Of Service
-## Game Usage Policy
-
-The goal of Aetheris is to enhance your fun, not to kill games. All tiers must follow the General Terms.
-# BASIC
-*For personal use and staying low-key.*
-[-] Abuse is forbidden.
-[-] No garbage GUIs known for breaking games (kidd/skid/team guis).
-[-] Use self-affecting scripts only.
-[-] Keep Aetheris a secret (don't say the game is "infected" in chat).
-[-] No exploiting with game Devs/Admins present. They can get Aetheris patched.
-[-] No NSFW Scripts.
-# PREMIUM
-*For trolling individuals and light fun.*
-[-] No garbage GUIs known for breaking games (kidd/skid/team guis).
-[+] Btools allowed.
-[+] Access to big games.
-[+] Limited player abuse is allowed (e.g., fling, annoy, troll a single person).
-[-] No exploiting with game Devs/Admins present.
-# TITANIUM
-*The ultimate troll tier for making an impact.*
-[+] All Premium perks.
-[-] No garbage GUIs known for breaking games (kidd/skid/team guis).
-[+] Abuse and Destroy Allowed (BUT NO KIDD SCRIPTS)
-[+] You can exploit with Devs present, but do it smartly. Getting Aetheris patched hurts everyone.
-[-] Shutdown after exploiting!
-
-## General Terms (Apply to EVERYONE, no exceptions)
-- No Leaking or Selling Aetheris.
-- No Malicious Activity (phishing, malware, etc.).
-- No Reverse Engineering.
-- No Leaking infected games.
-- No game-breaking scripts (**Map Changers, Server Crashers**).
-- No **Mass** Actions (**Shutdown, Kill, Kick, Ban, Teleport**).
-- No Script Execution Spam.
-- No garbage GUIs known for breaking games (kidd/skid/team guis).
-- No External/Internal executors.
-- Polaria not allowed.
-- No HD Admin.
-- NSFW Scripts not allowed.
-
-# ⚠️ Important Warning
-We track script execution. Violating the **General Terms** can lead to an instant ban.
-Otherwise, it's 3 warnings -> blacklist.
-----
-Think before you act!
+# <a:aetheris3d:1386341935421329550> Aetheris Terms of Service
+## Overview
+The goal of Aetheris is to enhance your fun, not to kill games.
+## Membership Tiers
+### Basic Tier
+*Perfect for personal use and staying low-key*
+- ✅ Self-affecting scripts only
+- ✅ Access to scripthub
+- ❌ No code editor
+- ❌ No GUIs known for breaking games (kidd/skid/team guis)
+- ❌ No NSFW content
+- ❌ No Map changing scripts
+- ❌ Ads
+### Premium Tier
+*For trolling and light fun.*
+- ✅ All Basic tier features
+- ✅ Access to map changing scripts (Btools, F3X)
+- ✅ Access to code editor
+- ✅ Access to big games
+- ❌ Ads
+- ❌ No server-breaking actions
+- ❌ No GUIs known for breaking games (kidd/skid/team guis)
+### Titanium Tier
+*Advanced features for experienced users*
+- ✅ All Premium tier features
+- ✅ Map changing scripts
+- ✅ No Ads
+- ❌ Must use features responsibly
+- ❌ No GUIs known for breaking games (kidd/skid/team guis)
+## Universal Rules (All Tiers)
+1. **Security**
+   - No leaking or selling Aetheris
+   - No reverse engineering
+   - No external/internal executors
+   - No obfuscated scripts
+   - No Leaking infected games
+2. **Game Integrity**
+   - No server crashing
+   - No mass shutdown actions
+   - No map-breaking scripts
+   - No spam execution
+   - No harmful GUI usage
+   - No exploiting with game Devs/Admins present
+   - No GUIs known for breaking games (kidd/skid/team guis)
+3. **Content Safety**
+   - No NSFW content
+   - No malicious activities
+   - No phishing or malware
+   - No HD Admin usage
+   - No Polaria usage
+## Warning System 
+- Violations of Universal Rules = Instant blacklist
+- Other violations follow 3-strike system
+- Don't try to change accounts to avoid blacklist/warnings
+- Bot will sends DMs if u got a warn
+## Important Notes
+- All purchases are final, no refunds.
+- Think before using scripts that could impact game stability
+- Keep Aetheris in secret, do not tell anyone about it in the game
+- Report bugs through proper channels
+## Think before you act! @everyone
