@@ -1,4 +1,4 @@
-# <a:aetheris3d:1386341935421329550> Aetheris Terms of Service
+# Aetheris Terms of Service
 ## Overview
 The goal of Aetheris is to enhance your fun, not to kill games.
 ## Membership Tiers
@@ -58,4 +58,4 @@ The goal of Aetheris is to enhance your fun, not to kill games.
 - Think before using scripts that could impact game stability
 - Keep Aetheris in secret, do not tell anyone about it in the game
 - Report bugs through proper channels
-## Think before you act! @everyone
+## Think before you act!
