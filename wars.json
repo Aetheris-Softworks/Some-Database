@@ -12,18 +12,8 @@
     },
     { 
       "opponent": "Kronos Serverside",
-      "status_text": "Peace Treaty",
-      "status_class": "st-peace"
-    },
-    {
-      "opponent": "Team Ham00d",
-      "status_text": "Peace Treaty", 
-      "status_class": "st-peace"
-    },
-    {
-      "opponent": "Vista Serverside",
-      "status_text": "Peace Treaty",
-      "status_class": "st-peace"
+      "status_text": "Victory of Aetheris",
+      "status_class": "st-win"
     }
   ]
 }
